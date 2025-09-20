@@ -101,7 +101,7 @@ body{
     margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
-    min-width: 600px;
+    min-width: 200px;
     border-radius: 30px;
     height: 80px;
     width: 70%;
@@ -120,7 +120,6 @@ body{
     height: 80px;
     z-index: 1;
     width: 100%;;
-    max-width: 1300px;
     margin: 0 auto;
     padding: 0 50px;
     opacity: 1;
@@ -132,7 +131,6 @@ body{
     height: 80px;
     z-index: 1;
     width: 100%;;
-    max-width: 1300px;
     margin: 0 auto;
     padding: 0 50px;
     opacity: 0;
@@ -416,4 +414,5 @@ button[type="submit"]:hover {
     -ms-user-select: none;
     -o-user-select: none;
     user-select: none;
+
 }
